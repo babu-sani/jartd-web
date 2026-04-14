@@ -19,7 +19,7 @@
     {
       "pack_id": "globe_trotters",
       "title": "Globe Trotters",
-      "description": "Travel the world one sip at a time. Niche geography trivia, cultural deep cuts, and adventure vibes.",
+      "description": "Travel the world one card at a time. Niche geography trivia, cultural deep cuts, and adventure vibes.",
       "version": "2.0.0",
       "price_usd": 0,
       "is_free": true,
@@ -43,7 +43,7 @@
       "data_file": "against_the_bar.json",
       "thumbnail": "pack_thumb_againstthebar.png",
       "sort_order": 3,
-      "enabled": true,
+      "enabled": false,
       "standalone": true,
       "release_date": "2026-04-02"
     },
@@ -65,7 +65,7 @@
     {
       "pack_id": "video_games",
       "title": "Video Games",
-      "description": "Press start to drink. Niche gaming trivia from Atari classics to modern AAA titles.",
+      "description": "Press start to play. Niche gaming trivia from Atari classics to modern AAA titles.",
       "version": "2.0.0",
       "price_usd": 0,
       "is_free": false,
@@ -110,7 +110,7 @@
     {
       "pack_id": "movies",
       "title": "Movies",
-      "description": "Lights, camera, drink! Race to shout out answers from blockbusters to cult classics.",
+      "description": "Lights, camera, action! Race to shout out answers from blockbusters to cult classics.",
       "version": "2.0.0",
       "price_usd": 0,
       "is_free": false,
@@ -185,7 +185,7 @@
     {
       "pack_id": "nature",
       "title": "Nature",
-      "description": "Touch grass and take a sip. Animals, plants, weather, and earth science.",
+      "description": "Touch grass and test your knowledge. Animals, plants, weather, and earth science.",
       "version": "2.0.0",
       "price_usd": 0,
       "is_free": false,
